@@ -1,0 +1,11 @@
+1: CREATE TABLE students (name TEXT, grade REAL);
+1: INSERT INTO students VALUES ('James', 2.5), ('Yaxin', 3.7);
+1: BEGIN TRANSACTION;
+1: SELECT * FROM students ORDER BY name;
+1: UPDATE students SET grade = 3.0 WHERE name = 'James';
+2: BEGIN TRANSACTION;
+2: SELECT * FROM students ORDER BY name;
+2: COMMIT TRANSACTION;
+1: SELECT * FROM students ORDER BY name;
+1: COMMIT TRANSACTION;
+2: SELECT * FROM students ORDER BY name;
