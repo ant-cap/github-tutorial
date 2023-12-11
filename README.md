@@ -2,7 +2,7 @@
 Built from the ground up in Python, this engine is designed to replicate SQLite library output.
 
 # Functionality
-- Essential query support (create, insert, select, order by, where, delete, etc.)
+- Essential query support (create, insert, select, order by, where, delete, etc.) and other keywords (default, desc, update)
 - Joins
 - Persistence
 - Transactions (isolation, rollback, etc.)
