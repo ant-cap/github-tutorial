@@ -7,6 +7,7 @@ Built from the ground up in Python, this engine is designed to replicate SQLite 
 - Persistence
 - Transactions (isolation, rollback, etc.)
 - Views
+- Parameters
 - Functions
 - Aggregates
 
