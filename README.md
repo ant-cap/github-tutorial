@@ -1,6 +1,9 @@
 # sql-database-engine
 Built from the ground up in Python, this engine is designed to replicate SQLite library output.
 
+![image](https://github.com/ant-cap/sql-database-engine/assets/61441638/77421487-50d8-4388-97ed-8e6cf9c50873)
+
+
 # Functionality
 - Essential query support (create, insert, select, order by, where, delete, default, update, etc.)
 - Joins
