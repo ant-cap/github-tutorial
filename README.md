@@ -15,8 +15,11 @@ The tests folder contains sql queries that you can execute by running cli.py wit
 
 You may also pass in --sqlite to produce the SQLite output for comparison purposes.
 
-Example: > py cli.py test.where.02.sql
-or > py cli.py test.where.02.sql --sqlite
+Examples:
+'''
+py cli.py test.where.02.sql
+py cli.py test.where.02.sql --sqlite
+'''
 
 project.py must be in the same directory as cli.py.
 
