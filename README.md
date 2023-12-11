@@ -8,6 +8,7 @@ Built from the ground up in Python, this engine is designed to replicate SQLite 
 - Transactions (isolation, rollback, etc.)
 - Views
 - Functions
+- Aggregates
 
 # How to use
 The tests folder contains sql queries that you can execute by running cli.py with the test filename.
