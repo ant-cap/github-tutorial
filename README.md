@@ -1,7 +1,7 @@
 # sql-database-engine
 Built from the ground up in Python, this engine is designed to replicate SQLite library output.
 
-![image](https://github.com/ant-cap/sql-database-engine/assets/61441638/77421487-50d8-4388-97ed-8e6cf9c50873)
+![sql](https://github.com/ant-cap/sql-database-engine/assets/61441638/0f0cd361-a293-46b9-ae85-a780bf650ec6)
 
 
 # Functionality
